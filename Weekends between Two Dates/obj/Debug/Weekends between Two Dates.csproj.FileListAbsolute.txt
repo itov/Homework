@@ -1,0 +1,5 @@
+C:\Projects\Homework\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.exe.config
+C:\Projects\Homework\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.exe
+C:\Projects\Homework\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.pdb
+C:\Projects\Homework\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.exe
+C:\Projects\Homework\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.pdb
